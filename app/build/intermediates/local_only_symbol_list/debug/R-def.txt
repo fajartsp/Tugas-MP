@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable btn_background_1
+drawable btn_background_2
+drawable ic_1
+drawable ic_2
+drawable ic_3
+drawable ic_4
+drawable ic_5
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable profile
+drawable top_background
+id button
+id button2
+id button3
+id button4
+id button5
+id imageView
+id imageView2
+id textView
+id textView2
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Project125
